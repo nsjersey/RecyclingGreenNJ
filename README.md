@@ -28,4 +28,4 @@ Fabio Jamarillo is a programmer/developer and web designer who lives in Bloomfie
  
 Alejandro Oviedo (@alexoviedo999) is a programmer/developer specializing in Ruby on Rails.
  
-Laurie Peterson (@lauriepete) is a digital media and marketing consultant in the New York/New Jersey area.
+Laurie Petersen (@lauriepete) is a Hoboken-based writer, editor and digital media consultant.
