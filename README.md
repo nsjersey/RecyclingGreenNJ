@@ -24,7 +24,7 @@ Steve Chernoski (@nsjersey ) is a teacher, blogger, and wanna-be stand-up comedi
  
 Joli Furnari (@brkdlprkdogpark) is an adjunct professor in the First Year Writing Program at Montclair State University.
  
-Fabio Jamarillo is a programmer/developer and web designer who lives in Bloomfield.  
+Fabio Jamarillo (@fabioxja) is a programmer/developer and web designer who lives in Bloomfield.  
  
 Alejandro Oviedo (@alexoviedo999) is a programmer/developer specializing in Ruby on Rails.
  
